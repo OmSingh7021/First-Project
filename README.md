@@ -1,2 +1,4 @@
 # First-Project
 This is my first Git Repository
+Author - Om Singh 
+
